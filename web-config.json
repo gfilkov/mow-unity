@@ -1,0 +1,5 @@
+{
+  "apiEndpoint": "ws://1.1.1.1:30080/events",
+  "updateInterval": 5,
+  "rasterApiBaseUrl": "https://mowtestweb.azurewebsites.net"
+}
